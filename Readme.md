@@ -1,4 +1,4 @@
-## Connect-Offline
+## itunes-lib
 
 Reads and parses an iTunes Library.xml file to expose useful data within.
 
