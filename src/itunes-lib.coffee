@@ -9,3 +9,6 @@ module.exports = ituneslib = (options={}) ->
 class ITunesLib
   constructor: (@options) ->
 
+  size: ->
+    112
+
