@@ -7,6 +7,7 @@ Reads and parses an iTunes Library.xml file to expose useful data within.
 ```
   npm install itunes-lib
 ```
+(not published yet)
 
 ## Development
 
