@@ -22,13 +22,17 @@ Reads and parses an iTunes Library.xml file to expose useful data within.
         title: "Shell Games",
         artist: "Bright Eyes",
         album: "The People's Key",
-        play_count: 2
+        play_count: 2,
+        date_added: _, // Date
+        play_date: _ // Date
       },
       {
         title: "Blackout",
         artist: "Anna Calvi",
         album: "Anna Calvi",
-        play_count: 6
+        play_count: 6,
+        date_added: _, // Date
+        play_date: _ // Date
       }
     ]
 

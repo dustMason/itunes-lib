@@ -3,6 +3,7 @@
 _ = require('underscore')
 fs = require('fs')
 plist = require('plist')
+moment = require('moment')
 
 module.exports = ituneslib = (options={}) ->
   itunesLib = module.exports.instance = new ITunesLib options
@@ -22,6 +23,8 @@ class ITunesLib
         artist: track["Artist"]
         album: track["Album"]
         play_count: track["Play Count"]
+        date_added: moment(track["Date Added"]).toDate()
+        play_date: moment(track["Play Date UTC"]).toDate()
       }
 
 

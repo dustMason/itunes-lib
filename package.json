@@ -14,7 +14,8 @@
   "main": "lib/itunes-lib.js",
   "dependencies": {
     "underscore": "1.1.7",
-    "plist": "0.4.3"
+    "plist": "0.4.3",
+    "moment": "2.1.0"
   },
   "devDependencies": {
     "async": "0.1.14",
