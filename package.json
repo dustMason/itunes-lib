@@ -13,7 +13,8 @@
   },
   "main": "lib/itunes-lib.js",
   "dependencies": {
-    "underscore": "1.1.7"
+    "underscore": "1.1.7",
+    "plist": "0.4.3"
   },
   "devDependencies": {
     "async": "0.1.14",

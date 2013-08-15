@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-08-15T15:31:01Z</date>
+	<key>Application Version</key><string>11.0.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/jordansitkin/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>9726BB25C00DC214</string>
+	<key>Tracks</key>
+	<dict>
+		<key>215</key>
+		<dict>
+			<key>Track ID</key><integer>215</integer>
+			<key>Name</key><string>Shell Games</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>The People's Key</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8366309</integer>
+			<key>Total Time</key><integer>235813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-08-14T00:19:01Z</date>
+			<key>Date Added</key><date>2011-03-10T20:45:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3459260262</integer>
+			<key>Play Date UTC</key><date>2013-08-14T00:37:42Z</date>
+			<key>Release Date</key><date>2011-02-15T08:00:00Z</date>
+			<key>Normalization</key><integer>4452</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>People's Key</string>
+			<key>Sort Artist</key><string>Bright Eyes</string>
+			<key>Sort Name</key><string>Shell Games</string>
+			<key>Persistent ID</key><string>41764EE37A6C044C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/jordansitkin/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/The%20People's%20Key/02%20Shell%20Games.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>221</key>
+		<dict>
+			<key>Track ID</key><integer>221</integer>
+			<key>Name</key><string>Blackout</string>
+			<key>Artist</key><string>Anna Calvi</string>
+			<key>Album Artist</key><string>Anna Calvi</string>
+			<key>Album</key><string>Anna Calvi</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8846598</integer>
+			<key>Total Time</key><integer>245666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-08-14T00:18:25Z</date>
+			<key>Date Added</key><date>2011-03-10T20:45:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3459330251</integer>
+			<key>Play Date UTC</key><date>2013-08-14T20:04:11Z</date>
+			<key>Release Date</key><date>2011-01-18T08:00:00Z</date>
+			<key>Normalization</key><integer>7580</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Anna Calvi</string>
+			<key>Sort Artist</key><string>Anna Calvi</string>
+			<key>Sort Name</key><string>Blackout</string>
+			<key>Persistent ID</key><string>77E4293498F46CD9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/jordansitkin/Music/iTunes/iTunes%20Media/Music/Anna%20Calvi/Anna%20Calvi/07%20Blackout.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Recently Played</string>
+			<key>Playlist ID</key><integer>354</integer>
+			<key>Playlist Persistent ID</key><string>60BA455B261BA136</string>
+			<key>Distinguished Kind</key><integer>203</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>221</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
