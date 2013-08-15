@@ -1,13 +1,12 @@
 ## itunes-lib
 
-Reads and parses an iTunes Library.xml file to expose useful data within.
+Reads and parses an iTunes playlist XML file to expose useful data within.
 
 ## Installation
 
 ```
   npm install itunes-lib
 ```
-(not published yet)
 
 ## Usage
 

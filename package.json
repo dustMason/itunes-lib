@@ -1,7 +1,7 @@
 {
   "author": "Jordan Sitkin (http://jordansitkin.com)",
   "name": "itunes-lib",
-  "description": "Parses iTunes Library.xml files",
+  "description": "Parses iTunes playlist XML files",
   "version": "0.1.0",
   "homepage": "http://github.com/dustmason/itunes-lib",
   "repository": {
