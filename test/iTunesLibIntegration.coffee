@@ -1,9 +1,8 @@
 fs = require 'fs'
-_ = require 'underscore'
 moment = require 'moment'
 
-itunes = require('../lib/itunes-lib.js')
-itunesLib = new itunes('./recent.xml')
+itunes = require '../lib/itunes-lib.js'
+itunesLib = new itunes './recent.xml'
 
 testCase = require("nodeunit").testCase
 
